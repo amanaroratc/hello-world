@@ -1,0 +1,233 @@
+category,level,code
+Beauty And Grooming,0,BAG
+Shaving & Beard Care,1,BAGSAD
+Hair Care And Accessory,1,BAGHCA
+Makeup,1,BAGMAK
+Bath & Shower,1,BAGBAS
+Body & Face Skin Care,1,BAGBFS
+Fragrances,1,BAGFRA
+Sexual Wellness,1,BAGSWE
+Womens Personal Hygiene,1,BAGWPH
+Oral Care,1,BAGORC
+Hair Accessory,2,BAGHCAHAA
+Hair Care,2,BAGHCAHAC
+Face Makeup,2,BAGMAKFMK
+Lips,2,BAGMAKLIP
+Makeup Kits & Combo,2,BAGMAKMKC
+Eye Makeup,2,BAGMAKEMK
+Makeup Accessory,2,BAGMAKMKA
+Nails,2,BAGMAKNAI
+Bath Accessory,2,BAGBASBAC
+Bath Essentials,2,BAGBASBES
+Body And Face Accessory,2,BAGBFSBFA
+Hand & Foot Care,2,BAGBFSHFC
+Body And Face Care,2,BAGBFSBFC
+Eye Care,2,BAGBFSEYC
+Deodorants,2,BAGFRADEO
+Perfume,2,BAGFRAPFM
+Shaving Oil,c,BAGSADSVO
+Shaving Blades,c,BAGSADSVB
+Shaving Razors,c,BAGSADSVR
+Aftershave,c,BAGSADAFS
+Shaving Gel,c,BAGSADSVG
+Shaving Creams,c,BAGSADSVC
+Shaving Foam,c,BAGSADSVF
+Beard Oil,c,BAGSADBEO
+Shaving Brushes,c,BAGSADSBR
+Shaving Soap,c,BAGSADSVS
+Mens Grooming Combo Kit,c,BAGSADMGC
+Hair Accessory Set,c,BAGHCAHAAHAS
+Hair Dryer Holder,c,BAGHCAHAAHDH
+Hair Chain,c,BAGHCAHAAHCH
+Hair Cut Cape,c,BAGHCAHAAHCC
+Hair Comb,c,BAGHCAHAACMB
+Bun,c,BAGHCAHAABUN
+Bun Clip,c,BAGHCAHAABNC
+Back Pin,c,BAGHCAHAABPN
+Hair Stamp,c,BAGHCAHAASTM
+Braid Extension,c,BAGHCAHAABEX
+Tic Tac Clip,c,BAGHCAHAATTC
+Hair Claw,c,BAGHCAHAAHCL
+Hair Wig,c,BAGHCAHAAHWG
+Hair Tattoo,c,BAGHCAHAAHTT
+Dye Mixing Bowl,c,BAGHCAHAADMB
+Hair Straightner Glove,c,BAGHCAHAAHSG
+Hair Clip,c,BAGHCAHAAHCP
+Hair Extension,c,BAGHCAHAAHEX
+Head Band,c,BAGHCAHAAHBN
+Bun Stick,c,BAGHCAHAABST
+Hair Steamer,c,BAGHCAHAAHST
+Rubber Band,c,BAGHCAHAARBB
+Hair Pin,c,BAGHCAHAAHPN
+Hair Band,c,BAGHCAHAAHBD
+Hair Brush,c,BAGHCAHAAHBR
+Hair Curlers,c,BAGHCAHAAHCU
+Hair Dryer Bonnet,c,BAGHCAHAAHDB
+Banana Clip,c,BAGHCAHAABNA
+Hair Serum,c,BAGHCAHACHSR
+Hair Gel,c,BAGHCAHACHGL
+Hair Care Combo,c,BAGHCAHACHCM
+Shampoo,c,BAGHCAHACSHP
+Hair Fragrance,c,BAGHCAHACHFR
+Hair Oil,c,BAGHCAHACHOI
+Hair Volumizer,c,BAGHCAHACHVO
+Hair Spray,c,BAGHCAHACHSP
+Henna,c,BAGHCAHACHNN
+Hair Color,c,BAGHCAHACHCO
+Conditioner,c,BAGHCAHACCND
+Hair Treatment,c,BAGHCAHACHTR
+Hair Wax,c,BAGHCAHACHWX
+Hair Styling,c,BAGHCAHACHSY
+Bronzer,c,BAGMAKFMKBRZ
+Face Makeup Combo,c,BAGMAKFMKFMC
+Primer,c,BAGMAKFMKPRM
+Concealer,c,BAGMAKFMKCNC
+Foundation,c,BAGMAKFMKFND
+Compact,c,BAGMAKFMKCMP
+Blush,c,BAGMAKFMKBLS
+Shimmer And Glitter,c,BAGMAKFMKSNG
+Highlighter,c,BAGMAKFMKHHL
+Makeup Remover,c,BAGMAKFMKMRM
+Lip Balm,c,BAGMAKLIPLBM
+Lipstick,c,BAGMAKLIPLST
+Lip Liner,c,BAGMAKLIPLLI
+Lip Stain,c,BAGMAKLIPLSN
+Lip Plumper,c,BAGMAKLIPLPL
+Lip Gloss,c,BAGMAKLIPLGL
+Lip Makeup Combo,c,BAGMAKLIPLMC
+Makeup Kit Combo,c,BAGMAKMKCMCM
+Makeup Kit,c,BAGMAKMKCMKI
+Eye Makeup Combo,c,BAGMAKEMKEMC
+Eyeliner,c,BAGMAKEMKELN
+Kajal,c,BAGMAKEMKKJL
+Mascara,c,BAGMAKEMKMSC
+Eyeshadow,c,BAGMAKEMKESH
+Eyebrow Pencil,c,BAGMAKEMKEPN
+Eyebrow Enhancer,c,BAGMAKEMKEEN
+Tattoo Needle,c,BAGMAKMKATND
+Tattoos Sticker,c,BAGMAKMKATST
+Nail Sanding Pad,c,BAGMAKMKANSP
+Nail Brush,c,BAGMAKMKANBR
+Sindoor,c,BAGMAKMKASND
+Makeup Headband,c,BAGMAKMKAMHB
+Makeup Accessories Combo,c,BAGMAKMKAMAC
+Cotton Bud,c,BAGMAKMKACTB
+Facial Wipe,c,BAGMAKMKAFWP
+Cotton Pad,c,BAGMAKMKACTP
+Vanity Box,c,BAGMAKMKAVNB
+Makeup Pencil Sharpener,c,BAGMAKMKAMPS
+Soak Clip,c,BAGMAKMKASKC
+Sponge,c,BAGMAKMKASPG
+Mehendi,c,BAGMAKMKAMND
+Makeup Brush Organizer,c,BAGMAKMKAMBO
+Hand Mirror,c,BAGMAKMKAHMR
+Eyebrow Stencil,c,BAGMAKMKAEST
+Nail Cutter,c,BAGMAKMKANCT
+Tattoo Kit,c,BAGMAKMKATTK
+Eyebrow Thread,c,BAGMAKMKAETH
+Cuticle Pusher,c,BAGMAKMKACPS
+Artificial Nail,c,BAGMAKMKAATN
+Nail Dust Cleaner,c,BAGMAKMKANDC
+Makeup Apron,c,BAGMAKMKAMAP
+Tweezer,c,BAGMAKMKATWE
+Eyelash Adhesive,c,BAGMAKMKAEAD
+Bindi,c,BAGMAKMKABND
+Makeup Brush,c,BAGMAKMKAMBR
+Artificial Eyelash,c,BAGMAKMKAAEL
+Eyelash Curler,c,BAGMAKMKAECL
+Cotton Ball,c,BAGMAKMKACBL
+Nail Filer,c,BAGMAKMKANAF
+Nail Polish Remover,c,BAGMAKNAINPR
+Nail Polish,c,BAGMAKNAINPL
+Nail Polish Dryer,c,BAGMAKNAINPD
+Nail Art,c,BAGMAKNAINAT
+Nail Makeup Combo,c,BAGMAKNAINMC
+Nail Crystal Powder,c,BAGMAKNAINCP
+Bath Glove,c,BAGBASBACBGL
+Bath Spa Pillow,c,BAGBASBACBSP
+Bath Ball,c,BAGBASBACBBL
+Loofah,c,BAGBASBACLFH
+Bath Brush,c,BAGBASBACBBR
+Bath Sponge,c,BAGBASBACSPN
+Portable Steam Sauna Bath,c,BAGBASBACSSB
+Pumice Stone,c,BAGBASBACPSN
+Shower Cap,c,BAGBASBACSCP
+Bath Soap,c,BAGBASBESSOP
+Bath Essential Oil,c,BAGBASBESEOI
+Body Wash,c,BAGBASBESBWS
+Bubble Bath,c,BAGBASBESBBB
+Bath Salt,c,BAGBASBESBSL
+Bath Combos And Kit,c,BAGBASBESBCK
+Blackhead Remover,c,BAGBFSBFABLR
+Toe Separator,c,BAGBFSBFATSP
+Sweat Pad,c,BAGBFSBFASWP
+Massager,c,BAGBFSBFAMSG
+Facial Steamer,c,BAGBFSBFAFST
+Oil And Wax Heater,c,BAGBFSBFAOWH
+Invisible Ear Lobe Support,c,BAGBFSBFAELS
+Hand Sanitizer,c,BAGBFSHFCHSN
+Foot Brush,c,BAGBFSHFCFBR
+Electronic Foot Filer,c,BAGBFSHFCEFF
+Foot Filers,c,BAGBFSHFCFFL
+Pedicure & Manicure Bowl,c,BAGBFSHFCPMB
+Hand Wash,c,BAGBFSHFCHWS
+Manicure Kit,c,BAGBFSHFCMCK
+Combo Kit,c,BAGBFSHFCCMK
+Pedicure Kit,c,BAGBFSHFCPDK
+Hair Removal,c,BAGBFSBFCHRM
+Tanning Liquid,c,BAGBFSBFCTNL
+Anti Aging,c,BAGBFSBFCAAG
+Face Wash,c,BAGBFSBFCFWS
+Talcum Powder,c,BAGBFSBFCTLP
+Moisturizer,c,BAGBFSBFCMOI
+Cleanser,c,BAGBFSBFCCLN
+Facial Atomizer,c,BAGBFSBFCATM
+Face Pack,c,BAGBFSBFCFPK
+Toner,c,BAGBFSBFCTON
+Scrub,c,BAGBFSBFCSCR
+Skin Care Combo,c,BAGBFSBFCSCC
+Sunscreen,c,BAGBFSBFCSUN
+Facial Kit,c,BAGBFSBFCFCK
+Skin Brightening Cream,c,BAGBFSBFCSBC
+Skin Treatment,c,BAGBFSBFCSTR
+Wrinkle Eraser,c,BAGBFSBFCWRI
+Eye Serum,c,BAGBFSEYCESR
+Eye Cream,c,BAGBFSEYCECR
+Eye Mask,c,BAGBFSEYCEMA
+Eye Gel,c,BAGBFSEYCEGL
+Fragrance Combo,c,BAGFRAFGC
+Body Mist,c,BAGFRABDM
+Deodorant Creams,c,BAGFRADEODCR
+Deodorant Roll Ons,c,BAGFRADEODRO
+Deodorant Sticks,c,BAGFRADEODST
+Deodorant Gels,c,BAGFRADEODGL
+Deodorant Spray,c,BAGFRADEODSP
+Attar,c,BAGFRAATT
+Eau De Cologne,c,BAGFRAPFMEDC
+Eau De Parfum,c,BAGFRAPFMEDP
+Eau De Toilette,c,BAGFRAPFMEDT
+Pregnancy Kit,c,BAGSWEPRG
+Lubricants,c,BAGSWELBR
+Fertility Kit,c,BAGSWEFRT
+Vaginal Dilator,c,BAGSWEVAG
+Condom,c,BAGSWECON
+Intimate Care,c,BAGWPHINC
+Sanitary Pad,c,BAGWPHSNP
+Menstrual Cup,c,BAGWPHMEC
+Tampons,c,BAGWPHTMP
+Pantyliner,c,BAGWPHPNT
+Female Urinating Device,c,BAGWPHFUD
+Womens Hygiene Combo,c,BAGWPHWHC
+Dental Floss,c,BAGORCDFL
+Teeth Whitening,c,BAGORCTWT
+Toothbrush,c,BAGORCTBR
+Toothbrush Sanitizer,c,BAGORCTBS
+Tongue Cleaner,c,BAGORCTGC
+Oral Care Combo,c,BAGORCOCC
+Toothpaste,c,BAGORCTPT
+Mouthwash,c,BAGORCMWS
+Toothpick,c,BAGORCTPI
+Toothbrush Case,c,BAGORCTBC
+Water Flosser,c,BAGORCWFL
+Teeth Wipe,c,BAGORCTWP
+Breath Freshener,c,BAGORCBFR
