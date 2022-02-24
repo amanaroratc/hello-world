@@ -1,0 +1,418 @@
+Product_ID,Date,Offer_ID,Times_Occurred,Offer_Description,Est_Units_Sold
+1067995,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,266.0
+1067995,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,266.0
+1067995,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,476.0
+1067995,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,476.0
+1067995,2021-12-19,106545,9,Additional 15% off on purchase worth Rs. 1500/-,494.0
+1067995,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,601.0
+1067995,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,605.0
+1067995,2021-12-23,106643,3,Additional 5% Off on purchase of 2+ products,166.0
+1067995,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",436.0
+1067995,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",399.0
+1067995,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,198.0
+1067995,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,596.0
+1067995,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,583.0
+1067995,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,1077.0
+1067995,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,572.0
+1067995,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,585.0
+1067995,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),954.0
+1067995,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,954.0
+1067996,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,140.0
+1067996,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,140.0
+1067996,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1067996,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1067996,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,121.0
+1067996,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,175.0
+1067996,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,477.0
+1067996,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,19.0
+1067996,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",125.0
+1067996,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",78.0
+1067996,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,0.0
+1067996,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,348.0
+1067996,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,490.0
+1067996,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,350.0
+1067996,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,202.0
+1067996,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,245.0
+1067996,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),319.0
+1067996,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,319.0
+1067997,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,69.0
+1067997,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,69.0
+1067997,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,77.0
+1067997,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,77.0
+1067997,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,103.0
+1067997,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,149.0
+1067997,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,18.0
+1067997,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,132.0
+1067997,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",90.0
+1067997,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+1067997,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,136.0
+1067997,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,151.0
+1067997,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,211.0
+1067997,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,79.0
+1067997,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,135.0
+1067997,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,121.0
+1067997,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),207.0
+1067997,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,207.0
+1067998,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,62.0
+1067998,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,62.0
+1067998,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1067998,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1067998,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,189.0
+1067998,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,238.0
+1067998,2021-12-22,106643,8,Additional 5% Off on purchase of 2+ products,216.0
+1067998,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,233.0
+1067998,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",228.0
+1067998,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",210.0
+1067998,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,381.0
+1067998,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,364.0
+1067998,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,262.0
+1067998,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,291.0
+1067998,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,210.0
+1067998,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,218.0
+1067998,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),289.0
+1067998,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,289.0
+1067999,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,169.0
+1067999,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,169.0
+1067999,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,122.0
+1067999,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,122.0
+1067999,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1067999,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,385.0
+1067999,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,297.0
+1067999,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,113.0
+1067999,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",287.0
+1067999,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",153.0
+1067999,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,0.0
+1067999,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,478.0
+1067999,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,321.0
+1067999,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,366.0
+1067999,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,238.0
+1067999,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,403.0
+1067999,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),99.0
+1067999,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,99.0
+1068000,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,113.0
+1068000,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,113.0
+1068000,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,103.0
+1068000,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,103.0
+1068000,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,94.0
+1068000,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,82.0
+1068000,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,62.0
+1068000,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,91.0
+1068000,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",89.0
+1068000,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",42.0
+1068000,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,114.0
+1068000,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,130.0
+1068000,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,182.0
+1068000,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,68.0
+1068000,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,69.0
+1068000,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,95.0
+1068000,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),124.0
+1068000,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,124.0
+1068001,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,143.0
+1068001,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,143.0
+1068001,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1068001,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068001,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,166.0
+1068001,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,219.0
+1068001,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,277.0
+1068001,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,151.0
+1068001,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",103.0
+1068001,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",57.0
+1068001,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,170.0
+1068001,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,274.0
+1068001,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,242.0
+1068001,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,216.0
+1068001,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,251.0
+1068001,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,98.0
+1068001,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),290.0
+1068001,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,290.0
+1068002,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1068002,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068002,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,594.0
+1068002,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,594.0
+1068002,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,449.0
+1068002,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,553.0
+1068002,2021-12-22,106643,8,Additional 5% Off on purchase of 2+ products,261.0
+1068002,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,498.0
+1068002,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",457.0
+1068002,2022-02-10,109802,3,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",188.0
+1068002,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,606.0
+1068002,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,663.0
+1068002,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,527.0
+1068002,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,668.0
+1068002,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,872.0
+1068002,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,60.0
+1068002,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),727.0
+1068002,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,727.0
+1068003,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,42.0
+1068003,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,42.0
+1068003,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,41.0
+1068003,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,41.0
+1068003,2021-12-19,106545,9,Additional 15% off on purchase worth Rs. 1500/-,32.0
+1068003,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,24.0
+1068003,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,49.0
+1068003,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,5.0
+1068003,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",18.0
+1068003,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+1068003,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,15.0
+1068003,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,49.0
+1068003,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,7.0
+1068003,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,43.0
+1068003,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,19.0
+1068003,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,27.0
+1068003,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),64.0
+1068003,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,64.0
+1068004,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,21.0
+1068004,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,21.0
+1068004,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1068004,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068004,2021-12-19,106545,9,Additional 15% off on purchase worth Rs. 1500/-,31.0
+1068004,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,65.0
+1068004,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,5.0
+1068004,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,61.0
+1068004,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",40.0
+1068004,2022-02-10,109802,3,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",18.0
+1068004,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,58.0
+1068004,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,69.0
+1068004,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,5.0
+1068004,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,55.0
+1068004,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,48.0
+1068004,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,46.0
+1068004,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),66.0
+1068004,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,66.0
+1068005,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,29.0
+1068005,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,29.0
+1068005,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1068005,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068005,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068005,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,60.0
+1068005,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,44.0
+1068005,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,38.0
+1068005,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",15.0
+1068005,2022-02-10,109802,3,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+1068005,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,45.0
+1068005,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,54.0
+1068005,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,42.0
+1068005,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,65.0
+1068005,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,43.0
+1068005,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,77.0
+1068005,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),69.0
+1068005,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,69.0
+1068467,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1068467,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1068467,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,336.0
+1068467,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,336.0
+1068467,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,152.0
+1068467,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,414.0
+1068467,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,275.0
+1068467,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,351.0
+1068467,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+1068467,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",4.0
+1068467,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,0.0
+1068467,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,0.0
+1068467,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,0.0
+1068467,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,1.0
+1068467,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+1068467,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+1068467,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),0.0
+1068467,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+1130913,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,124.0
+1130913,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,124.0
+1130913,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1130913,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1130913,2021-12-19,106545,11,Additional 15% off on purchase worth Rs. 1500/-,306.0
+1130913,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,24.0
+1130913,2021-12-22,106643,8,Additional 5% Off on purchase of 2+ products,246.0
+1130913,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,28.0
+1130913,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",165.0
+1130913,2022-02-10,109802,3,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",189.0
+1130913,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,283.0
+1130913,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,245.0
+1130913,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,265.0
+1130913,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,225.0
+1130913,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,274.0
+1130913,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,269.0
+1130913,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),404.0
+1130913,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,404.0
+1252974,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,71.0
+1252974,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,71.0
+1252974,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1252974,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1252974,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,77.0
+1252974,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,90.0
+1252974,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,89.0
+1252974,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,87.0
+1252974,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",14.0
+1252974,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",52.0
+1252974,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,159.0
+1252974,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,103.0
+1252974,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,134.0
+1252974,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,113.0
+1252974,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,137.0
+1252974,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,99.0
+1252974,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),70.0
+1252974,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,70.0
+1252975,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,44.0
+1252975,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,44.0
+1252975,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,34.0
+1252975,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,34.0
+1252975,2021-12-19,106545,11,Additional 15% off on purchase worth Rs. 1500/-,17.0
+1252975,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,76.0
+1252975,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,83.0
+1252975,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,4.0
+1252975,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",37.0
+1252975,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",26.0
+1252975,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,19.0
+1252975,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,88.0
+1252975,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,48.0
+1252975,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,50.0
+1252975,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,9.0
+1252975,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,71.0
+1252975,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),25.0
+1252975,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,25.0
+1338610,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,86.0
+1338610,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,86.0
+1338610,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,0.0
+1338610,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1338610,2021-12-19,106545,11,Additional 15% off on purchase worth Rs. 1500/-,0.0
+1338610,2021-12-20,106545,2,Additional 15% off on purchase worth Rs. 1500/-,199.0
+1338610,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,28.0
+1338610,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,140.0
+1338610,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",174.0
+1338610,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",39.0
+1338610,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,206.0
+1338610,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,245.0
+1338610,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,296.0
+1338610,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,141.0
+1338610,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,113.0
+1338610,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,278.0
+1338610,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),158.0
+1338610,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,158.0
+1411967,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,44.0
+1411967,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,44.0
+1411967,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,35.0
+1411967,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,35.0
+1411967,2021-12-19,106545,9,Additional 15% off on purchase worth Rs. 1500/-,62.0
+1411967,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,53.0
+1411967,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,130.0
+1411967,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",65.0
+1411967,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+1411967,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,41.0
+1411967,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,123.0
+1411967,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,127.0
+1411967,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,127.0
+1411967,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,96.0
+1411967,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,101.0
+1411967,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),110.0
+1411967,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,110.0
+1467106,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,228.0
+1467106,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,228.0
+1467106,2021-12-17,106323,1,Additional 10% off on purchase worth Rs. 1000/-,283.0
+1467106,2021-12-17,106324,1,Additional 15% off on purchase worth Rs. 1500/-,283.0
+1467106,2021-12-19,106545,10,Additional 15% off on purchase worth Rs. 1500/-,281.0
+1467106,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,249.0
+1467106,2021-12-22,106643,7,Additional 5% Off on purchase of 2+ products,419.0
+1467106,2021-12-23,106643,1,Additional 5% Off on purchase of 2+ products,71.0
+1467106,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",317.0
+1467106,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",228.0
+1467106,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,391.0
+1467106,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,246.0
+1467106,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,0.0
+1467106,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,1.0
+1467106,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,2.0
+1467106,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+1467106,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),0.0
+1467106,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+2777162,2021-12-16,106323,8,Additional 10% off on purchase worth Rs. 1000/-,4.0
+2777162,2021-12-16,106324,8,Additional 15% off on purchase worth Rs. 1500/-,4.0
+2777162,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,0.0
+2777162,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,0.0
+2777162,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,14.0
+2777162,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,19.0
+2777162,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,13.0
+2777162,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,16.0
+2777162,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",8.0
+2777162,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",0.0
+2777162,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,17.0
+2777162,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,19.0
+2777162,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,14.0
+2777162,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,17.0
+2777162,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,9.0
+2777162,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,11.0
+2777162,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),21.0
+2777162,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,21.0
+2812174,2021-12-16,106323,9,Additional 10% off on purchase worth Rs. 1000/-,328.0
+2812174,2021-12-16,106324,9,Additional 15% off on purchase worth Rs. 1500/-,328.0
+2812174,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,307.0
+2812174,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,307.0
+2812174,2021-12-19,106545,8,Additional 15% off on purchase worth Rs. 1500/-,306.0
+2812174,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,309.0
+2812174,2021-12-22,106643,9,Additional 5% Off on purchase of 2+ products,195.0
+2812174,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,1.0
+2812174,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",384.0
+2812174,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",163.0
+2812174,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,1.0
+2812174,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,0.0
+2812174,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,29.0
+2812174,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,548.0
+2812174,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,0.0
+2812174,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,452.0
+2812174,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),165.0
+2812174,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,165.0
+2812175,2021-12-16,106323,10,Additional 10% off on purchase worth Rs. 1000/-,84.0
+2812175,2021-12-16,106324,10,Additional 15% off on purchase worth Rs. 1500/-,84.0
+2812175,2021-12-17,106323,2,Additional 10% off on purchase worth Rs. 1000/-,222.0
+2812175,2021-12-17,106324,2,Additional 15% off on purchase worth Rs. 1500/-,222.0
+2812175,2021-12-19,106545,9,Additional 15% off on purchase worth Rs. 1500/-,144.0
+2812175,2021-12-20,106545,1,Additional 15% off on purchase worth Rs. 1500/-,153.0
+2812175,2021-12-22,106643,10,Additional 5% Off on purchase of 2+ products,36.0
+2812175,2021-12-23,106643,2,Additional 5% Off on purchase of 2+ products,158.0
+2812175,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",72.0
+2812175,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",92.0
+2812175,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,105.0
+2812175,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,215.0
+2812175,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,124.0
+2812175,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,94.0
+2812175,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,47.0
+2812175,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,104.0
+2812175,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),285.0
+2812175,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,285.0
+4469352,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",10.0
+4469352,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",14.0
+4469352,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,12.0
+4469352,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,18.0
+4469352,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,21.0
+4469352,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,25.0
+4469352,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,17.0
+4469352,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,22.0
+4469352,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),26.0
+4469352,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,26.0
+4469353,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",9.0
+4469353,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",5.0
+4469353,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,6.0
+4469353,2022-02-13,109974,2,Buy 2 Get 10% Off on MRP,11.0
+4469353,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,8.0
+4469353,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,18.0
+4469353,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,17.0
+4469353,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,16.0
+4469353,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),19.0
+4469353,2022-02-21,110408,3,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,19.0
+4524074,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",41.0
+4524074,2022-02-10,109802,3,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",50.0
+4524074,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,89.0
+4524074,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,92.0
+4524074,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,75.0
+4524074,2022-02-16,110160,3,Buy 2 Get 10% Off on MRP,131.0
+4524074,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,95.0
+4524074,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,78.0
+4524074,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),107.0
+4524074,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,107.0
+4524075,2022-02-09,109802,9,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",52.0
+4524075,2022-02-10,109802,2,"Get a FREE Hand Sanitizer with your order. Valid till stocks last. Offer not valid on luxe, wellness, and popup categories.",63.0
+4524075,2022-02-12,109974,9,Buy 2 Get 10% Off on MRP,115.0
+4524075,2022-02-13,109974,3,Buy 2 Get 10% Off on MRP,72.0
+4524075,2022-02-15,110160,9,Buy 2 Get 10% Off on MRP,55.0
+4524075,2022-02-16,110160,2,Buy 2 Get 10% Off on MRP,94.0
+4524075,2022-02-19,110408,9,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,87.0
+4524075,2022-02-20,110408,12,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,66.0
+4524075,2022-02-21,110386,9,Buy 2 Get 1 Free! *(Add 3 singles to the cart and get 1 free),113.0
+4524075,2022-02-21,110408,2,Free Autographed Pouch By Janhvi Kapoor On Orders of Rs.5000+. Terms & conditions apply. Offer valid until stock lasts.,113.0
